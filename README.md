@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danieldd00
+- 👀 I’m interested in code, movies, anime, and design 
+- 🌱 I’m a little late to the game. I have been coding for years but never decided to make a GitHub, and here I am.
